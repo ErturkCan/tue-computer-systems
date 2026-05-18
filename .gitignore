@@ -1,0 +1,6 @@
+*.o
+*.out
+matrix_naive
+matrix_cached
+test_*
+__pycache__/
